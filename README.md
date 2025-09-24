@@ -16,5 +16,4 @@ This is my first interactive to-do list website! Built with HTML, CSS, and a bit
 3. Check the box to mark tasks as done or click "Delete" to remove them.
 
  Credits
-- Created by [Your Name or Username, e.g., jpdummy23].
-- Guided by Grok 3 from xAI for the code and setup.
+- Created by Anieto johnpaul thanks to my coach bro jp and grok ai for assistance.
